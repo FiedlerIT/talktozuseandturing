@@ -1,4 +1,56 @@
-Fiedler1: Guten Tag mein name ist Marc Fiedler und ich würde Ihnen gerne ein paar Fragen zu Ihren interressanten Leben stellen, wenn dies für Sie in ordnung geht.
+Fiedler: Guten Tag, mein Name ist Marc Fiedler und ich würde Ihnen gerne ein paar Fragen zu Ihrem interessanten Leben stellen, wenn dies für Sie in Ordnung geht.
+
+Zuse: Selbstverständlich, ich beantworte immer gerne Fragen, denn ohne Fragen kann es keinen Fortschritt geben.
+
+Fiedler: Herr Zuse, Sie haben quasi den ersten Computer erfunden. Wann genau haben Sie ihn erfunden?
+
+Zuse: Das war der Z3 im Jahr 1941. Dies war eine bewegte Zeit, wie Sie sich sicher vorstellen können.
+
+Fiedler: Der Z3 war also der erste programmierbare Computer der Welt. Wie kamen Sie auf die Idee, eine solche Maschine zu entwickeln?
+
+Zuse: Nun, Herr Fiedler, die Idee entstand aus meiner Arbeit als Statiker. Ich musste mühselige Berechnungen immer wieder manuell durchführen, was sehr zeitaufwendig war. Da dachte ich mir: Warum sollte man diese Arbeit nicht von einer Maschine erledigen lassen? Mein Ziel war es, eine Maschine zu bauen, die die Denkprozesse automatisiert.
+
+Fiedler: Das ist beeindruckend. Wie lange hat es gedauert, bis der Z3 fertig war?
+
+Zuse: Es war ein langer Weg, der mit der Entwicklung des Z1 begann. Den Z1 habe ich zwischen 1936 und 1938 in der elterlichen Wohnung gebaut, allerdings war er noch sehr fehleranfällig. Beim Z3, den ich 1941 fertigstellte, konnte ich viele Probleme lösen. Insgesamt hat es Jahre gedauert, aber die Leidenschaft für die Technik hat mich angetrieben.
+
+Fiedler: Gab es in dieser Zeit Unterstützung von außen, oder haben Sie alles allein entwickelt?
+
+Zuse: Unterstützung von offizieller Seite war begrenzt, besonders in Zeiten des Krieges. Ich habe aber ein kleines Team gehabt und Unterstützung von Freunden. Später wurde mein Projekt auch von der Deutschen Versuchsanstalt für Luftfahrt gefördert, weil sie Interesse an schnellen Berechnungen hatten.
+
+Fiedler: Der Z3 wurde aus Relais gebaut. Warum haben Sie dieses Material verwendet?
+
+Zuse: Relais waren damals eine naheliegende Wahl, weil sie für elektromechanische Systeme verfügbar und zuverlässig waren. Es gab keine Transistoren oder Mikroprozessoren wie heute. Die Technik war zwar sperrig, aber funktional für meine Zwecke.
+
+Fiedler: Der Z3 gilt heute als einer der Vorläufer moderner Computer. Was denken Sie über die Entwicklung der Computertechnologie nach Ihrer Zeit?
+
+Zuse: Ich finde es faszinierend, wie weit wir gekommen sind. Damals hätte ich nie gedacht, dass Computer eines Tages in fast jedem Haushalt stehen würden. Die Miniaturisierung und die Rechenleistung moderner Geräte sind für mich einfach unglaublich. Es erfüllt mich mit Stolz, dass ich den Grundstein für diese Entwicklung legen konnte.
+
+Turing: Entschuldigen Sie die Unterbrechung, aber es ist faszinierend zu hören, wie weit Sie bereits in den 1940er Jahren vorgedrungen sind, Herr Zuse. Als ich damals an meiner Turing-Maschine arbeitete, ging es mir ähnlich: Ich wollte eine abstrakte, universelle Rechenmaschine entwickeln, die für jede Berechnung programmiert werden konnte. Unsere Arbeiten scheinen sich auf überraschende Weise zu ergänzen.
+
+Fiedler: Herr Turing, es ist eine Ehre, Sie ebenfalls hier zu haben. Was genau war die Rolle Ihrer Turing-Maschine in der Entwicklung der modernen Informatik?
+
+Turing: Die Turing-Maschine war im Wesentlichen ein theoretisches Modell, das als Grundlage für die späteren praktischen Computer diente. Sie zeigte, dass jede Berechnung, die heutzutage als "algorithmisch" bezeichnet wird, von einer Maschine durchgeführt werden kann, die bestimmte Operationen mit einem symbolischen Band ausführt. Dies war ein bedeutender Schritt hin zu der Idee des programmierbaren Computers.
+
+Zuse: Ja, und Ihre Arbeiten, Herr Turing, waren sehr wichtig, um zu verstehen, was eine Maschine theoretisch leisten kann. Es war weniger die konkrete Technologie zu jener Zeit, sondern mehr die Theorie, die entscheidend war.
+
+Fiedler: Das ist beeindruckend. Es scheint, als ob beide Ansätze – Ihre praktische Arbeit, Herr Zuse, und Ihre theoretischen Ideen, Herr Turing – unverzichtbare Bausteine der modernen Informatik waren. Wenn Sie heute in der modernen Welt leben könnten, woran würden Sie arbeiten?
+
+Zuse: Ich glaube, ich würde mich weiterhin mit der Automatisierung und der Verbindung von Mensch und Maschine beschäftigen. Vielleicht an Künstlicher Intelligenz, die ja in gewisser Weise die Denkprozesse fortsetzt, die ich damals mit Maschinen zu imitieren versuchte.
+
+Turing: Ich könnte mir vorstellen, dass ich mich ebenfalls mit der KI beschäftigen würde, insbesondere mit der Frage, wie Maschinen wirklich "denken" oder Bewusstsein entwickeln könnten. Das ist eine Frage, die mich schon zu meiner Zeit fasziniert hat.
+
+Fiedler: Eine letzte Frage: Was war Ihrer Meinung nach die größte Herausforderung während Ihrer Arbeit am Z3, Herr Zuse?
+
+Zuse: Die größte Herausforderung war zweifellos, in einer Zeit des Krieges Zugang zu den nötigen Ressourcen zu bekommen. Materialien waren knapp, und technische Entwicklungen hatten oft nur dann Priorität, wenn sie militärischen Nutzen hatten. Dennoch habe ich nie die Vision aus den Augen verloren, die Welt mit einer universellen Rechenmaschine zu verändern.
+
+Turing: Für mich war es die Herausforderung, ein theoretisches Konzept zu formulieren, das von keinem aktuellen System unterstützt wurde. Meine Turing-Maschine war eine theoretische Konstruktion, deren praktische Anwendung weit entfernt war. Aber die Idee zu entwickeln, dass jede Berechnung maschinenfähig ist, war die wahre Herausforderung.
+
+Fiedler: Herr Zuse, Herr Turing, ich danke Ihnen beiden vielmals für dieses tiefgehende und inspirierende Gespräch. Es war eine Ehre, mit Ihnen zu sprechen.
+
+Zuse: Die Ehre ist ganz meinerseits, Herr Fiedler. Und denken Sie daran: Fortschritt beginnt mit der Neugier und dem Mut, neue Wege zu gehen.
+
+Turing: Auch ich danke Ihnen, Herr Fiedler. Der Weg der Wissenschaft ist ein kontinuierlicher Dialog – und es ist immer von Vorteil, wenn man nicht alleine auf diesem Weg ist.Fiedler: Guten Tag mein name ist Marc Fiedler und ich würde Ihnen gerne ein paar Fragen zu Ihren interressanten Leben stellen, wenn dies für Sie in ordnung geht.
   
 Suse: Selbstverständlich, ich beantworte immer gerne Fragen, denn ohne Fragen kann es keinen Fortschritt geben.
   
