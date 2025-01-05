@@ -1,0 +1,39 @@
+Fiedler: Guten Tag mein name ist Marc Fiedler und ich würde Ihnen gerne ein paar Fragen zu Ihren interressanten Leben stellen, wenn dies für Sie in ordnung geht.
+  
+Suse: Selbstverständlich, ich beantworte immer gerne Fragen, denn ohne Fragen kann es keinen Fortschritt geben.
+  
+Fiedler: Herr Suse, Sie haben quai den ersten Computer erfunden. Wann genau haben sie ihn erfunden.
+
+Suse: Das war der Z3 im jahr 1941. Dies war eine bewegte Zeit, wie Sie sich sicher vorstellen können.
+
+Fiedler: Der Z3 war also der erste programmierbare Computer der Welt. Wie kamen Sie auf die Idee, eine solche Maschine zu entwickeln?
+
+Zuse: Nun, Herr Fiedler, die Idee entstand aus meiner Arbeit als Statiker. Ich musste mühselige Berechnungen immer wieder manuell durchführen, was sehr zeitaufwendig war. Da dachte ich mir: Warum sollte man diese Arbeit nicht von einer Maschine erledigen lassen? Mein Ziel war es, eine Maschine zu bauen, die die Denkprozesse automatisiert.
+
+Fiedler: Das ist beeindruckend. Wie lange hat es gedauert, bis der Z3 fertig war?
+
+Zuse: Es war ein langer Weg, der mit der Entwicklung des Z1 begann. Den Z1 habe ich zwischen 1936 und 1938 in der elterlichen Wohnung gebaut, allerdings war er noch sehr fehleranfällig. Beim Z3, den ich 1941 fertigstellte, konnte ich viele Probleme lösen. Insgesamt hat es Jahre gedauert, aber die Leidenschaft für die Technik hat mich angetrieben.
+
+Fiedler: Gab es in dieser Zeit Unterstützung von außen, oder haben Sie alles allein entwickelt?
+
+Zuse: Unterstützung von offizieller Seite war begrenzt, besonders in Zeiten des Krieges. Ich habe aber ein kleines Team gehabt und Unterstützung von Freunden. Später wurde mein Projekt auch von der Deutschen Versuchsanstalt für Luftfahrt gefördert, weil sie Interesse an schnellen Berechnungen hatten.
+
+Fiedler: Der Z3 wurde aus Relais gebaut. Warum haben Sie dieses Material verwendet?
+
+Zuse: Relais waren damals eine naheliegende Wahl, weil sie für elektromechanische Systeme verfügbar und zuverlässig waren. Es gab keine Transistoren oder Mikroprozessoren wie heute. Die Technik war zwar sperrig, aber funktional für meine Zwecke.
+
+Fiedler: Der Z3 gilt heute als einer der Vorläufer moderner Computer. Was denken Sie über die Entwicklung der Computertechnologie nach Ihrer Zeit?
+
+Zuse: Ich finde es faszinierend, wie weit wir gekommen sind. Damals hätte ich nie gedacht, dass Computer eines Tages in fast jedem Haushalt stehen würden. Die Miniaturisierung und die Rechenleistung moderner Geräte sind für mich einfach unglaublich. Es erfüllt mich mit Stolz, dass ich den Grundstein für diese Entwicklung legen konnte.
+
+Fiedler: Herr Zuse, wenn Sie heute in der modernen Welt leben könnten, woran würden Sie arbeiten?
+
+Zuse: Ich glaube, ich würde mich weiterhin mit der Automatisierung und der Verbindung von Mensch und Maschine beschäftigen. Vielleicht an Künstlicher Intelligenz, die ja in gewisser Weise die Denkprozesse fortsetzt, die ich damals mit Maschinen zu imitieren versuchte.
+
+Fiedler: Eine letzte Frage: Was war Ihrer Meinung nach die größte Herausforderung während Ihrer Arbeit am Z3?
+
+Zuse: Die größte Herausforderung war zweifellos, in einer Zeit des Krieges Zugang zu den nötigen Ressourcen zu bekommen. Materialien waren knapp, und technische Entwicklungen hatten oft nur dann Priorität, wenn sie militärischen Nutzen hatten. Dennoch habe ich nie die Vision aus den Augen verloren, die Welt mit einer universellen Rechenmaschine zu verändern.
+
+Fiedler: Herr Suse, ich danke Ihnen vielmals für dieses inspirierende Gespräch. Es war eine Ehre, mit Ihnen zu sprechen.
+
+Zuse: Die Ehre ist ganz meinerseits, Herr Fiedler. Und denken Sie daran: Fortschritt beginnt mit der Neugier und dem Mut, neue Wege zu gehen.
